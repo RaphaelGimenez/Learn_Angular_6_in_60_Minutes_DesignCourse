@@ -1,3 +1,21 @@
+# DesignCourse
+
+This project is the result of the DesignCourse's Crash Course : Learn Angular 6 in 60 minutes.
+Video url : https://www.youtube.com/watch?v=z4JUm0Bq9AM
+Written tutorial : https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course
+DesignCourse Channel : https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow
+
+The following part until # Ng6 will sum up what I learned throughout the course.
+
+## Angular CLI
+
+How to install the CLI : npm install -g @angular/cli
+
+CLI commands :
+Create a new project : ng new projectName --flags(--style=scss/--routing)
+Open live server : ng serve
+Create a new component : ng generate component componentName --> ng g c componentName
+
 # Ng6
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
