@@ -1,8 +1,11 @@
 # DesignCourse
 
 This project is the result of the DesignCourse's Crash Course : Learn Angular 6 in 60 minutes.
+
 Video url : https://www.youtube.com/watch?v=z4JUm0Bq9AM
+
 Written tutorial : https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course
+
 DesignCourse Channel : https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow
 
 The following part until # Ng6 will sum up what I learned throughout the course.
