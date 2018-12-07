@@ -8,7 +8,6 @@ Written tutorial : https://coursetro.com/posts/code/154/Angular-6-Tutorial---Lea
 
 DesignCourse Channel : https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow
 
-The following part until # Ng6 will sum up what I learned throughout the course.
 
 ## Angular CLI
 
